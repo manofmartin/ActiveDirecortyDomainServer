@@ -108,3 +108,4 @@ We now have a functioning Active Directory server up and running! <br />
 <img src="https://i.imgur.com/YXuQ7fP.png" height="80%" width="80%" alt="Windows 2022 KVM"/>
 <br />
 <br />
+</p>
