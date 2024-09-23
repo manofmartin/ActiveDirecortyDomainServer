@@ -1,4 +1,4 @@
-<h1>Making Active Direcorty Domain Server</h1>
+<h1>Making Active Directory Domain Server</h1>
 
 <h2>Description</h2>
 Creating the Active Directory domain server, assigning a static IP and configuring the features and roles.
